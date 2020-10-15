@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>152.png</filename>
+	<path>C:\Drive\Uni\Diplomarbeit\ForRealsies\Own\Programming\prep\png\152.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>180</ymin>
+			<xmax>165</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

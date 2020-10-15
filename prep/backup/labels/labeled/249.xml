@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pngData</folder>
+	<filename>249.png</filename>
+	<path>C:\Drive\Uni\Diplomarbeit\For Realsies\Own\Programming\pngData\249.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>142</ymin>
+			<xmax>58</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>
