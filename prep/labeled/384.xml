@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png_err_others</folder>
+	<filename>498.png</filename>
+	<path>D:\Google Drive\Uni\Diplomarbeit\ForRealsies\Own\Programming\prep\png_err_others\498.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>248</ymin>
+			<xmax>146</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
